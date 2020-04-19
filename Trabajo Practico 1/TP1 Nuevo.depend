@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1567745204 source:c:\users\sofia\desktop\programing\tp1 nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1567745345 source:c:\users\sofia\desktop\programing\tp1 nuevo\utn.c
+
+1567744840 c:\users\sofia\desktop\programing\tp1 nuevo\utn.h
+
+1567745818 source:c:\users\sofia\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1567745818 c:\users\sofia\desktop\tp1\utn.h
+
+1567746114 source:c:\users\sofia\desktop\tp1\biblioteca.c
+
+1572448148 source:c:\users\sofia\desktop\trabajo practico 1\biblioteca.c
+
+1587254108 source:c:\users\sofia\desktop\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"biblioteca.h"
+
+1572448148 c:\users\sofia\desktop\trabajo practico 1\biblioteca.h
+
