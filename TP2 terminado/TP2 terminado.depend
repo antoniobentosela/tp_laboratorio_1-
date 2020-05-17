@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1570242111 source:c:\users\sofia\desktop\tp2 terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1589679553 source:c:\users\sabrina\desktop\tp2-master\tp2 terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arraysEmployees.h"
+
+1589679467 source:c:\users\sabrina\desktop\tp2-master\tp2 terminado\arraysemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arraysEmployees.h"
+
+1589679584 c:\users\sabrina\desktop\tp2-master\tp2 terminado\arraysemployees.h
+
