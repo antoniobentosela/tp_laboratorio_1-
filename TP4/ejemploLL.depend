@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1593012624 source:c:\users\sabrina\desktop\ejemploll\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593011777 c:\users\sabrina\desktop\ejemploll\linkedlist.h
+
+1593309425 source:c:\users\sabrina\desktop\ejemploll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"auto.h"
+
+1593306462 source:c:\users\sabrina\desktop\ejemploll\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"auto.h"
+
+1593306420 c:\users\sabrina\desktop\ejemploll\auto.h
+
+1593309749 source:c:\users\sabrina\desktop\tp4\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"auto.h"
+
+1593011777 c:\users\sabrina\desktop\tp4\linkedlist.h
+
+1593309650 c:\users\sabrina\desktop\tp4\auto.h
+
+1593309784 source:c:\users\sabrina\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593309832 source:c:\users\sabrina\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"auto.h"
+
